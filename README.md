@@ -2,7 +2,7 @@
 ### AI-Powered Intelligent Travel Planning System
 
 **Smart Travel GPT** is an enterprise-level, AI-driven travel planning platform developed as a capstone project for an **AI & Machine Learning postgraduate program**.  
-The system combines **modern web technologies, machine learning models, and real-world travel APIs** to deliver personalized, data-driven travel recommendations.
+The system combines **modern web technologies, machine learning models, large language models (LLMs) and real-world travel APIs** to deliver personalized, data-driven travel recommendations.
 
 ---
 
